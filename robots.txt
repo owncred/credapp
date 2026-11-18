@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://credentials-android.github.io/credentials-android/sitemap.xml
+Sitemap: https://owncred.github.io/credapp/sitemap.xml
