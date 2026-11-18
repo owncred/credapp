@@ -1,19 +1,19 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://credentials-android.github.io/credentials-android/</loc>
+    <loc>https://owncred.github.io/credapp/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://credentials-android.github.io/credentials-android/privacy-policy.html</loc>
+    <loc>https://owncred.github.io/credapp/privacy-policy.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://credentials-android.github.io/credentials-android/account-deletion.html</loc>
+    <loc>https://owncred.github.io/credapp/account-deletion.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://credentials-android.github.io/credentials-android/contact.html</loc>
+    <loc>https://owncred.github.io/credapp/contact.html</loc>
     <priority>0.7</priority>
   </url>
 </urlset>
